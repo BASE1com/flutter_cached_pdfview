@@ -1,22 +1,12 @@
 # flutter_cached_pdfview 
 
 
-<a href="https://github.com/Solido/awesome-flutter">
-   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
-</a>
+![GitHub repo size](https://img.shields.io/github/repo-size/BASE1com/flutter_cached_pdfview)
+![issues-raw](https://img.shields.io/github/issues-raw/BASE1com/flutter_cached_pdfview)
+![license](https://img.shields.io/github/license/BASE1com/flutter_cached_pdfview)
+![last-commit](https://img.shields.io/github/last-commit/BASE1com/flutter_cached_pdfview)
 
-![Pub Version](https://img.shields.io/pub/v/flutter_cached_pdfview?color=1&label=flutter_cached_pdfview)
-![GitHub repo size](https://img.shields.io/github/repo-size/AbdOoSaed/flutter_cached_pdfview)
-![issues-raw](https://img.shields.io/github/issues-raw/AbdOoSaed/flutter_cached_pdfview)
-![license](https://img.shields.io/github/license/AbdOoSaed/flutter_cached_pdfview)
-![last-commit](https://img.shields.io/github/last-commit/AbdOoSaed/flutter_cached_pdfview)
-![stars](https://img.shields.io/github/stars/AbdOoSaed/flutter_cached_pdfview?style=social)
-![Dart CI](https://github.com/AbdOoSaed/flutter_cached_pdfview/workflows/Dart%20CI/badge.svg)
 
-<p align="center">
-    <a href="https://pub.dev/packages/flutter_cached_pdfview">
-   <img src="https://firebasestorage.googleapis.com/v0/b/iam-jobs.appspot.com/o/flutter_cached_pdfview.png?alt=media&token=853143c0-250d-4647-840d-98f11d25dbb5">
-    </a>
     <br>A package to show Native PDF View for iOS and Android, support Open from a different resource like Path, Asset or Url and Cache it.
 
 ### Support = [**[ Android ,  IOS  and  _WEB_(soon) ](#video)**];
@@ -83,7 +73,7 @@ import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 | getCurrentPage |   Get current page   |     -      | `Future<int>`  |
 | setPage        |    Go to/Set page    | `int page` | `Future<bool>` |
 
-## [Example](https://github.com/AbdOoSaed/flutter_cached_pdfview/tree/master/example)
+## [Example](https://github.com/BASE1com/flutter_cached_pdfview/tree/master/example)
 #### from Asset
 ```dart
        PDF(
@@ -135,7 +125,7 @@ If you use proguard, you should include this line [ready-made in the [Example](h
 
 [flutter_cache_manager](https://pub.dev/packages/flutter_cache_manager)
 
-### Android (only support >= api 20)
+### Android
 
 [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)
 
@@ -143,14 +133,6 @@ If you use proguard, you should include this line [ready-made in the [Example](h
 
 [PDFKit](https://developer.apple.com/documentation/pdfkit)
 
-
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="YDEYAAGBXDDK6" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-  <img alt="" border="0" src="https://www.paypal.com/en_MN/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 # Video
 ![IOS](https://user-images.githubusercontent.com/33700292/84393190-913c2380-abfb-11ea-9e4e-1f1bd1fe2305.gif)
@@ -160,18 +142,6 @@ If you use proguard, you should include this line [ready-made in the [Example](h
  ![WEB](https://user-images.githubusercontent.com/33700292/86278983-8ca2d380-bbd9-11ea-8861-7780fe9eee03.gif)
 
 
-# Support
-<p align="center">
-<a  href="https://ko-fi.com/abdosaed#paypalModal" target="_blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height=60 ></a>
-</p>
+### Attribution
 
-<p align="center">
-    <a href="https://www.paypal.me/abdoosaed/5" target="_blank">
-   <img height=60 src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" >
-    </a>
-    <br>    buy me a coffee by PayPal
-</p>
-
-### Developer
-
-- [Abdelrahman Saed](https://github.com/AbdOoSaed)
+Forked from a project by [Abdelrahman Saed](https://github.com/AbdOoSaed)
