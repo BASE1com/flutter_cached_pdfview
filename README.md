@@ -50,7 +50,6 @@ iOS (only support> 11.0) you need to add this line in your ios/Podfile
 
 `platform :ios, '11.0'`
 
-ready-made in the [Example](https://github.com/AbdOoSaed/flutter_cached_pdfview/tree/master/example)
 
 ### Import it
 
