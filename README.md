@@ -5,6 +5,7 @@
 ![issues-raw](https://img.shields.io/github/issues-raw/BASE1com/flutter_cached_pdfview)
 ![license](https://img.shields.io/github/license/BASE1com/flutter_cached_pdfview)
 ![last-commit](https://img.shields.io/github/last-commit/BASE1com/flutter_cached_pdfview)
+[![Build](https://github.com/BASE1com/flutter_cached_pdfview/actions/workflows/publish.yml/badge.svg?branch=master)](https://github.com/BASE1com/flutter_cached_pdfview/actions/workflows/publish.yml)
 
 
 A package to show Native PDF View for iOS and Android, support Open from a different resource like Path, Asset or Url and Cache it.
