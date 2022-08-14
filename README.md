@@ -24,6 +24,23 @@ A package to show Native PDF View for iOS and Android, support Open from a diffe
 ---
 ### Setup
 
+#### Android
+Add jCenter to the top level build.gradle() file
+```
+ repositories {
+        google()
+        mavenCentral()
+        jcenter() // Add Here
+    }
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Add Here
+    }
+}
+```
+
 #### iOS
 Opt-in to the embedded views preview by adding a boolean property to the app's `Info.plist` file
 with the key `io.flutter.embedded_views_preview` and the value `YES`.
